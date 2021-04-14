@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Instagram Sorter App
+          Instagram Sorter App New
         </a>
       </header>
     </div>
